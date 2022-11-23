@@ -1,0 +1,7 @@
+main>div>*{
+    display: flex;
+    width: min-content;
+    margin: auto;
+    padding: 1.5rem;
+    border: 2px solid black;
+}
